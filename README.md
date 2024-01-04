@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monoscope&size=30&duration=3000&pause=800&color=58a6ff&center=true&vCenter=true&width=500&lines=Cloud+Enthusiast+and+DevOps+Learner;Eager+to+explore+and+grow+in+the+tech+world" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=monospace&size=30&duration=3000&pause=800&color=58a6ff&center=false&vCenter=true&width=600&lines=Cloud+Enthusiast+and+DevOps+Learner;Eager+to+explore+and+grow+in+the+tech+world" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -67,11 +67,35 @@
   </a>
 </p>
 
-## Blog Posts (Expand to View)
-<!-- List of blog posts -->
+## Hashnode Blogs (Expand to View)
+
+<details>
+  <summary><b>Tap Me</b></summary>
 
 ## 📊 Github Stats (Expand to View) 
-<!-- Github stats -->
+  
+ <details>
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=davender-singh1&theme=2077" alt="rishikeshops" /></p>
+
+</details>
+
+  <details>
+  <summary><b>📈 My Top Languages</b></summary>
+
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davender-singh1&theme=aura" alt="davender-singh1" 
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davender-singh1&theme=aura" alt="davender-singh1" /></p>
+</details> 
+
+  </details>
+    <details>
+  <summary><b>📈 My Contributions</b></summary>
+   
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=davender-singh1&theme=great_gatsby" alt="davender-singh1" /></p>
+ 
+
+</details>
 
 ## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
