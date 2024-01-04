@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monoscope&size=30&duration=3000&pause=800&color=58a6ff&center=true&vCenter=true&width=435&lines=Cloud+Enthusiast+and+DevOps+Learner;Eager+to+explore+and+grow+in+the+tech+world" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=monoscope&size=30&duration=3000&pause=800&color=58a6ff&center=true&vCenter=true&width=500&lines=Cloud+Enthusiast+and+DevOps+Learner;Eager+to+explore+and+grow+in+the+tech+world" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -15,7 +15,7 @@
   <br/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davendersingh1&theme=algolia" alt="davendersingh1" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davender-singh1&theme=algolia" alt="davender-singh1" /></p>
 
 <img align='right' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
 
