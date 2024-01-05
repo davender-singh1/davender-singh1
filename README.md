@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monospace&size=30&duration=3000&pause=800&color=58a6ff&center=false&vCenter=true&width=600&lines=Cloud+Enthusiast+and+DevOps+Learner;Eager+to+explore+and+grow+in+the+tech+world" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=monospace&size=30&duration=3000&pause=800&color=58a6ff&center=false&vCenter=true&width=650&lines=Cloud+Enthusiast+and+DevOps+Learner;Eager+to+explore+and+grow+in+the+tech+world" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -55,6 +55,14 @@
   <a href="https://code.visualstudio.com/" target="_blank" >
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
   </a>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Elastic" src="https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elastic&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  i<mg alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   
   ### Monitoring
   
