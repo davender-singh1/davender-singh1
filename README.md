@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monospace&size=30&duration=3000&pause=800&color=58a6ff&center=false&vCenter=true&width=700&lines=Cloud+Enthusiast+and+DevOps+Learner;Eager+to+explore+and+grow+in+the+tech+world" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=monospace&size=30&duration=3000&pause=800&color=58a6ff&center=false&vCenter=true&width=720&lines=Cloud+Enthusiast+and+DevOps+Learner;Eager+to+explore+and+grow+in+the+tech+world" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -56,7 +56,7 @@
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
   </a>
   <a href="https://www.python.org/" target="_blank">
-   <img src="https://media.giphy.com/media/2zejiWk5szi7B2D9h2/giphy.gif" width="90" />
+   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="90" />
 </a>
 <a href="https://www.postman.com/" target="_blank">
    <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="90" />
