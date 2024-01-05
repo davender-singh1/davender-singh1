@@ -59,26 +59,26 @@
    <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="90" />
 </a>
 <a href="https://www.postman.com/" target="_blank">
-   <img src="https://media.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif" width="90" />
+   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="90" />
 </a>
 <a href="https://www.mysql.com/" target="_blank">
-   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="90" />
+   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="90" />
 </a>
 
 <a href="https://www.elastic.co/elasticsearch/" target="_blank">
-   <img src="https://media.giphy.com/media/3o6ozu9LI4CR7ZVtS0/giphy.gif" width="90" />
+   <img src="[https://media.giphy.com/media/3o6ozu9LI4CR7ZVtS0/giphy.gif](https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png)" width="90" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-   <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="90" />
+   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="90" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
-   <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="90" />
+   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="90" />
 </a>
 
 <a href="https://www.mongodb.com/" target="_blank">
-   <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="90" />
+   <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="90" />
 </a>
   
   ### Monitoring
@@ -96,6 +96,8 @@
 
 <details>
   <summary><b>Tap Me</b></summary>
+  ![Blog Card](https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://hashnode.com/@davender&large=true&theme=dark)
+</details>
 
 ## 📊 Github Stats (Expand to View) 
   
@@ -111,7 +113,7 @@
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davender-singh1&theme=aura" alt="davender-singh1" 
   <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davender-singh1&theme=aura" alt="davender-singh1" /></p>
-</details> 
+ 
 
   </details>
     <details>
