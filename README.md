@@ -65,10 +65,6 @@
    <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="90" />
 </a>
 
-<a href="https://www.elastic.co/elasticsearch/" target="_blank">
-   <img src="[https://media.giphy.com/media/3o6ozu9LI4CR7ZVtS0/giphy.gif](https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png)" width="90" />
-</a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
    <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="90" />
 </a>
