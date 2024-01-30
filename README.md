@@ -4,13 +4,22 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=monospace&size=30&duration=3000&pause=800&color=58a6ff&center=false&vCenter=true&width=750&lines=Cloud+Enthusiast+and+DevOps+Professional;Eager+to+Deliver+Results+and+Drive+Success." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=monospace&size=30&duration=3000&pause=800&color=58a6ff&center=false&vCenter=true&width=750&lines=Python Backend Developer+&+Full-Stack Enthusiast;Cloud+Enthusiast+and+DevOps+Professional;Eager+to+Deliver+Results+and+Drive+Success." alt="Typing SVG" />
   </a>
 </h3>
 
 <p align="center">
   <samp>
-    As a recent Computer Programming & Analysis graduate from Seneca College, I specialize in DevOps, database engineering, and Python software development. I'm passionate about leveraging cloud technologies to drive innovation and efficiency.
+    As a recent Computer Programming & Analysis graduate from Seneca College with a strong focus on Python, backend development, and full-stack expertise. My passion lies in crafting robust and scalable solutions, emphasizing efficiency and user-centric design.
+
+    In my journey, I have honed my skills in database engineering and Python software development, striving for excellence in every line of code. I am particularly enthusiastic about backend development, crafting the logic and architecture that powers applications seamlessly.
+    
+    Additionally, I'm well-versed in full-stack development, ensuring a cohesive and engaging user experience from the frontend to the backend. My commitment to staying current with industry trends allows me to implement cutting-edge technologies, creating innovative and effective 
+    solutions.
+    
+    As a tech enthusiast, I thrive on leveraging cloud technologies to enhance scalability, reliability, and overall system performance. With a keen interest in DevOps practices, I am eager to contribute to projects that demand a harmonious blend of development and operations.
+
+    Let's collaborate to deliver results, drive success, and bring innovative ideas to life!
   </samp>
   <br/>
 </p>
