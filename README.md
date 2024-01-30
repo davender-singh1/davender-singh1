@@ -22,7 +22,12 @@
 <img align='right' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
 
 ## :zap: Skills
-
+   <a href="https://www.python.org/" target="_blank">
+   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="90" />
+  </a>
+   <div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/></code>
+</div>
    <a href="https://www.linux.org/" target="_blanfalse" />
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"  height="90" />
   </a>
@@ -57,12 +62,9 @@
   <a href="https://code.visualstudio.com/" target="_blank" >
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
   </a>
-  <a href="https://www.python.org/" target="_blank">
-   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="90" />
-</a>
-<a href="https://www.postman.com/" target="_blank">
+  <a href="https://www.postman.com/" target="_blank">
    <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="90" />
-</a>
+  </a>
 <a href="https://www.mysql.com/" target="_blank">
    <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="90" />
 </a>
