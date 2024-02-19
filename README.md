@@ -10,7 +10,7 @@
 
 <p align="center">
   <samp>
-    As a recent Computer Programming & Analysis graduate from Seneca College, I specialize in Python 🐍 and backend development, with a focus on championing cloud technologies ☁️ for scalability and reliability. Proficient in database engineering and Python development, I particularly enjoy crafting efficient solutions with a 
+    As a recent Computer Programming & Analysis graduate from Seneca College, I specialize in Python 🐍 and backend development, with a focus on championing cloud technologies ☁️ for scalability and reliability. Proficient in data engineering and Python development, I particularly enjoy crafting efficient solutions with a 
     user-centric approach. While knowledgeable in full-stack development, my expertise lies in backend logic and architecture. Committed to staying current with industry trends, I implement cutting-edge technologies ⚙️. As a tech enthusiast, I thrive on leveraging cloud technologies and have a keen interest in DevOps practices 
     🚀. Eager to contribute to projects requiring a harmonious blend of development and operations. Let's collaborate to deliver results, drive success, and bring innovative ideas to life! 🌟
   </samp>
