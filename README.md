@@ -11,14 +11,12 @@
 
 <p align="center">
   <samp>
-    As a recent Computer Programming & Analysis graduate from Seneca College, I specialize in Python 🐍 and backend development, with a focus on championing cloud technologies ☁️ for scalability and reliability. Proficient in data engineering and Python development, I particularly enjoy crafting efficient solutions with a 
-    user-centric approach. While knowledgeable in full-stack development, my expertise lies in backend logic and architecture. Committed to staying current with industry trends, I implement cutting-edge technologies ⚙️. As a tech enthusiast, I thrive on leveraging cloud technologies and have a keen interest in DevOps practices 
-    🚀. Eager to contribute to projects requiring a harmonious blend of development and operations. Let's collaborate to deliver results, drive success, and bring innovative ideas to life! 🌟
+    As a recent Computer Programming & Analysis graduate from Seneca College, I specialize in Python 🐍 and backend development, with a focus on championing cloud technologies ☁️ for scalability and reliability. Proficient in Python development and data engineering, I delight in crafting user-centric solutions for efficiency. Skilled in data analysis, I leverage statistical methods and machine learning to extract insights, driving informed decision-making. While knowledgeable in full-stack development, my expertise lies in backend logic and architecture. Committed to staying current with industry trends, I implement cutting-edge technologies ⚙️. As a tech enthusiast, I thrive on leveraging cloud technologies and have a keen interest in DevOps practices 🚀. Eager to contribute to projects requiring a harmonious blend of development and operations. Let's collaborate to deliver results, drive success, and bring innovative ideas to life! 🌟
   </samp>
   <br/>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davender-singh1&theme=algolia" alt="davender-singh1" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davender-singh1&theme=whatsapp-dark2" alt="davender-singh1" /></p>
 
 <img align='right' src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300">
 
